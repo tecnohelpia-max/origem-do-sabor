@@ -1,0 +1,18 @@
+{
+  "name": "Origem do Sabor",
+  "short_name": "Origem",
+  "description": "Gestão de Charcutaria Artesanal",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1B4332",
+  "theme_color": "#1B4332",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
